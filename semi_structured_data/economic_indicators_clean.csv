@@ -1,0 +1,39 @@
+﻿indicator_number,indicator,geo_code,geography,value_original,numeric_value,reference_period,release_date,growth_rate,growth_numeric,growth_details,source
+1,Average weekly earnings,0,Canada,"$1,347.14",1347.14,July 2026,2026-09-24,3.2%,3.2,(12-month change),14100223
+1,Average weekly earnings,13,Nunavut,"$1,844.70",1844.7,July 2026,2026-09-24,2.3%,2.3,(12-month change),14100223
+1,Average weekly earnings,12,Northwest Territories,"$1,821.38",1821.38,July 2026,2026-09-24,4.8%,4.8,(12-month change),14100223
+1,Average weekly earnings,11,Yukon,"$1,504.26",1504.26,July 2026,2026-09-24,1.1%,1.1,(12-month change),14100223
+1,Average weekly earnings,10,British Columbia,"$1,356.78",1356.78,July 2026,2026-09-24,4.4%,4.4,(12-month change),14100223
+1,Average weekly earnings,9,Alberta,"$1,399.61",1399.61,July 2026,2026-09-24,2.5%,2.5,(12-month change),14100223
+1,Average weekly earnings,1,Newfoundland and Labrador,"$1,317.98",1317.98,July 2026,2026-09-24,1.7%,1.7,(12-month change),14100223
+1,Average weekly earnings,2,Prince Edward Island,"$1,207.99",1207.99,July 2026,2026-09-24,4.1%,4.1,(12-month change),14100223
+1,Average weekly earnings,3,Nova Scotia,"$1,228.91",1228.91,July 2026,2026-09-24,5.6%,5.6,(12-month change),14100223
+1,Average weekly earnings,4,New Brunswick,"$1,261.88",1261.88,July 2026,2026-09-24,5.3%,5.3,(12-month change),14100223
+1,Average weekly earnings,5,Quebec,"$1,279.96",1279.96,July 2026,2026-09-24,1.9%,1.9,(12-month change),14100223
+1,Average weekly earnings,6,Ontario,"$1,391.19",1391.19,July 2026,2026-09-24,3.6%,3.6,(12-month change),14100223
+1,Average weekly earnings,7,Manitoba,"$1,217.11",1217.11,July 2026,2026-09-24,3.1%,3.1,(12-month change),14100223
+1,Average weekly earnings,8,Saskatchewan,"$1,325.24",1325.24,July 2026,2026-09-24,4.4%,4.4,(12-month change),14100223
+1,Consumer Price Index,0,Canada,,,August 2026,2026-09-14,3.0%,3.0,(12-month change),18100004
+1,Employment level,2,Prince Edward Island,"96,000",96000.0,August 2026,2026-09-04,-0.4%,-0.4,(monthly change),14100287
+1,Employment level,3,Nova Scotia,"541,000",541000.0,August 2026,2026-09-04,0.5%,0.5,(monthly change),14100287
+1,Employment level,4,New Brunswick,"409,000",409000.0,August 2026,2026-09-04,0.6%,0.6,(monthly change),14100287
+1,Employment level,5,Quebec,"4,589,000",4589000.0,August 2026,2026-09-04,-0.4%,-0.4,(monthly change),14100287
+1,Employment level,6,Ontario,"8,307,000",8307000.0,August 2026,2026-09-04,-0.2%,-0.2,(monthly change),14100287
+1,Employment level,7,Manitoba,"756,000",756000.0,August 2026,2026-09-04,0.1%,0.1,(monthly change),14100287
+1,Employment level,8,Saskatchewan,"622,000",622000.0,August 2026,2026-09-04,0.4%,0.4,(monthly change),14100287
+1,Employment level,9,Alberta,"2,661,000",2661000.0,August 2026,2026-09-04,-0.3%,-0.3,(monthly change),14100287
+1,Employment level,0,Canada,"21,173,000",21173000.0,August 2026,2026-09-04,-0.2%,-0.2,(monthly change),14100287
+1,Employment level,1,Newfoundland and Labrador,"245,000",245000.0,August 2026,2026-09-04,0.6%,0.6,(monthly change),14100287
+1,Employment level,10,British Columbia,"2,949,000",2949000.0,August 2026,2026-09-04,-0.2%,-0.2,(monthly change),14100287
+2,Unemployment rate,6,Ontario,6.9%,6.9,August 2026,2026-09-04,0.1 pts,0.1,(monthly change),14100287
+2,Unemployment rate,8,Saskatchewan,6.0%,6.0,August 2026,2026-09-04,0.0 pts,0.0,(monthly change),14100287
+2,Unemployment rate,9,Alberta,6.8%,6.8,August 2026,2026-09-04,-0.2 pts,-0.2,(monthly change),14100287
+2,Unemployment rate,10,British Columbia,6.5%,6.5,August 2026,2026-09-04,0.3 pts,0.3,(monthly change),14100287
+2,Unemployment rate,7,Manitoba,5.0%,5.0,August 2026,2026-09-04,0.0 pts,0.0,(monthly change),14100287
+2,Unemployment rate,0,Canada,6.4%,6.4,August 2026,2026-09-04,0.0 pts,0.0,(monthly change),14100287
+2,Unemployment rate,1,Newfoundland and Labrador,8.6%,8.6,August 2026,2026-09-04,-0.7 pts,-0.7,(monthly change),14100287
+2,Unemployment rate,2,Prince Edward Island,7.9%,7.9,August 2026,2026-09-04,1.1 pts,1.1,(monthly change),14100287
+2,Unemployment rate,3,Nova Scotia,6.1%,6.1,August 2026,2026-09-04,-0.1 pts,-0.1,(monthly change),14100287
+2,Unemployment rate,4,New Brunswick,7.3%,7.3,August 2026,2026-09-04,0.3 pts,0.3,(monthly change),14100287
+2,Unemployment rate,5,Quebec,5.6%,5.6,August 2026,2026-09-04,0.0 pts,0.0,(monthly change),14100287
+1,Real GDP by expenditure,0,Canada,,,Second quarter 2026,2026-08-28,0.8%,0.8,(quarterly change),36100104
