@@ -44,3 +44,28 @@ CREATE TABLE economic_indicators (
         reference_period
     )
 );
+
+
+CREATE TABLE web_articles (
+    article_id INT NOT NULL,
+    title VARCHAR(500) NOT NULL,
+    publication_date DATE NOT NULL,
+    year INT NOT NULL,
+    month TINYINT NOT NULL,
+    source VARCHAR(150) NOT NULL,
+    source_url VARCHAR(500) NOT NULL,
+    word_count INT,
+    competition_mentions INT,
+    price_mentions INT,
+    grocery_mentions INT,
+    consumer_mentions INT,
+    online_mentions INT,
+    competition_per_1000_words DECIMAL(10,2),
+    price_per_1000_words DECIMAL(10,2),
+    grocery_per_1000_words DECIMAL(10,2),
+    consumer_per_1000_words DECIMAL(10,2),
+    online_per_1000_words DECIMAL(10,2),
+    article_text LONGTEXT,
+
+    PRIMARY KEY (article_id)
+);
