@@ -39,8 +39,9 @@ A MySQL database named `data_acq_project` has been created with three tables:
 
 Database scripts are available in the `sql/` directory:
 
-- `data_acq_project_schema.sql` – Database tables, keys, and indexes.
-- `import_data.sql` – Import scripts for the three cleaned datasets.
+- [data_acq_project_schema.sql](sql/data_acq_project_schema.sql) – Database tables, keys, and indexes.
+
+- [import_data.sql](sql/import_data.sql) – Import scripts for the three cleaned datasets.
 
 All three datasets have been successfully imported into MySQL.
 
