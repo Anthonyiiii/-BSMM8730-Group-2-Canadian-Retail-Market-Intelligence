@@ -1,0 +1,3 @@
+# Reproducible CSV-to-MySQL import; tested with Python 3.9 and MySQL 8.3.
+mysql-connector-python==9.4.0
+# Original exploratory notebooks additionally use pandas, requests, beautifulsoup4.
