@@ -13,7 +13,7 @@ The project brings together Statistics Canada retail sales and economic indicato
 - [Schema, keys, data dictionary and design boundaries](docs/database_design.md)
 - [Requirements-to-implementation mapping](docs/requirements_traceability.md)
 - [Validation record](docs/validation.md)
-- [AI assistance record](docs/ai_assistance.md)
+- [Development support note](docs/ai_assistance.md)
 
 ## ERD 1.0
 
